@@ -11,7 +11,7 @@
 - 📫 How to reach me: Check social links below.
 
 
-## 🌐 Socials
+## 🌐 Socials  <a target="_blank">
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhd__atif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammmed-athif-tp-91282818a/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMjYbaMBPSkSh3hZNR7ONvQ) [![Twitter](https://img.shields.io/twitter/follow/mohammedathif52?logo=Twitter&style=for-the-badge)](https://twitter.com/@mohammedathif52)
 
 ## 💻 Tech Stack
