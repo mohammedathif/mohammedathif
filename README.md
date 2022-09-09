@@ -28,13 +28,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedathif&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedathif&theme=react-dark"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedathif&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedathif&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedathif&theme=gotham" />
 </p>
 
 ### ✍️Random Dev Quote
