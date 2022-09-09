@@ -28,7 +28,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedathif&theme=react-dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedathif&theme=github_dark"/>
 </p>
 
 ## 📟 GitHub Stats
