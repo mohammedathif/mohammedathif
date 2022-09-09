@@ -23,7 +23,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mohammedathif&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=mohammedathif&theme=react-dark"/>
 </p>
 
 ## 💳 Github Profile Summary Card
@@ -33,7 +33,7 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedathif&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedathif&show_icons=true&theme=github_dark" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedathif&theme=gotham" />
 </p>
 
