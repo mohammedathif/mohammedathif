@@ -38,7 +38,7 @@
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohammedathif&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
