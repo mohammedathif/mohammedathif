@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashkar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkar/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMjYbaMBPSkSh3hZNR7ONvQ) [![Twitter](https://img.shields.io/twitter/follow/ashkar?logo=Twitter&style=for-the-badge)](https://twitter.com/ashkar)
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkar/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCMjYbaMBPSkSh3hZNR7ONvQ](https://www.linkedin.com/in/mohammed-athif-tp-91282818a/) [![Twitter](https://img.shields.io/twitter/follow/ashkar?logo=Twitter&style=for-the-badge)]([https://twitter.com/ashkar](https://x.com/mohammedathif52)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MariaDB](https://img.shields.io/badge/MariaDB-%234ea94b.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Frappe](https://img.shields.io/badge/frappe-%2300f.svg?style=for-the-badge&logo=erpnext&logoColor=blue)  ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-Cloud-blue) 
@@ -27,13 +27,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashkar7&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedathif&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashkar7&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashkar7&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammedathif&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedathif&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
